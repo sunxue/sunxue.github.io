@@ -21,10 +21,10 @@ avatar: ./_includes/image.jpg
 favicon: ./_includes/image.jpg
 
 # google analytics 设置
-#ga:
-#  id: UA-54767140-1
+ga:
+  id: UA-54767140-1
 #  url: yansu.org
 
-# disqus 设置
-#disqus:
-#  shortname: suyan-zh
+#disqus 设置
+disqus:
+  shortname: suyan-zh
