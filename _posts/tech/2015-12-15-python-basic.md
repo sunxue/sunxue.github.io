@@ -8,6 +8,6 @@ description: 日常工作中常用的python脚本
 
 ### 获取当前文件夹下的文件名列表并导出到文件
 
-- import os
-  list = os.listdir('目录名')
+- `import os`
+  `list = os.listdir('目录名')`
   
