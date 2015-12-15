@@ -18,7 +18,7 @@ rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
 avatar: ./_includes/image.jpg
-#favicon: 
+favicon: ./_includes/image.jpg
 
 # google analytics 设置
 #ga:
