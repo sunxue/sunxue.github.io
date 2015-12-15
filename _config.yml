@@ -17,8 +17,8 @@ description: 孙雪的博客
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: E:/GitHub/Blog/_includes/image.jpg
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: E:\GitHub/Blog\_includes\image.jpg
+favicon: 
 
 # google analytics 设置
 ga:
